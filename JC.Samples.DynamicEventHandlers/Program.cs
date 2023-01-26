@@ -5,4 +5,4 @@ Console.WriteLine("Running Worker Client...");
 var client = new WorkerClient();
 client.RunWorker();
 
-Console.WriteLine("Finished running Worker Client...");
+Console.WriteLine("Finished running Worker Client");
